@@ -49,13 +49,13 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-cheers {
-    height: 200px;
+    height: 250px;
 }
 
 .gift-img {
     margin: 20px auto;
-    max-width: 400px;
-    height: 400px;
+    max-width: 600px;
+    height: 500px;
     border: 6px solid white;
     border-radius: 10px;
     background-image: url("images/gift-cover.jpg");
@@ -66,16 +66,16 @@ h1, h2, h3, h4, p {
     background-image: url("images/happy.gif");
 }
 
-#gift-img-hot:hover {
-    background-image: url("images/hot.gif");
+#tatinek:hover {
+    background-image: url("images/tatinek.jpg");
 }
 
-#gift-img-genius:hover {
-    background-image: url("images/genius.gif");
+#mas:hover {
+    background-image: url("images/mas.jpg");
 }
 
-#gift-img-badass:hover {
-    background-image: url("images/badass.gif");
+#rodinka:hover {
+    background-image: url("images/rodinka.jpg");
 }
 
 #gift-img-cheers:hover {
@@ -91,7 +91,6 @@ h1, h2, h3, h4, p {
 a {
     color: white;
 }
-
 /* 
 Add the footer paragraph according to the design. 
 Configure the anchor tag to open the link in a new tab.
